@@ -1,1 +1,1 @@
-# magento2-pl-translations-for-3rd-party-modules
+# Polish (🇵🇱) translations for 3rd party modules
