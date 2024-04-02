@@ -1,6 +1,6 @@
 ## Polish (🇵🇱) translations for 3rd party modules (Magento 2)
 
-### Translated modules:
+### Translated modules in [pl_Pl.csv file](https://github.com/dev-jq/magento2-pl-translations-for-3rd-party-modules/blob/main/app/i18n/xyz-modules/override/pl_PL.csv):
 ```
 Swissup_Core
 Swissup_Askit
