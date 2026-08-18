@@ -65,4 +65,5 @@ Amasty_Shopby
 Amasty_ShopbyBrand
 Amasty_SeoToolkitLit
 WeltPixel_SocialLogin
+Amasty_Gdpr, Amasty_GdprCookie, Amasty_GdprFrontendUi
 ```
