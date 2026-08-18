@@ -47,6 +47,7 @@ MagePsycho_GoToCatalog
 RedChamps_CleanMenu
 RedChamps_CmsDataSync
 Extdn_ExtensionDashboard
+Mageplaza_Affilate
 Mageplaza_Core
 Mageplaza_Smtp
 Mageplaza_Reports
